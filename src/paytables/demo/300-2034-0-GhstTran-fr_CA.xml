@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr_CA">
+<phrase key="softwareId" value="ID logiciel"/>
+<phrase key="transactionId" value="ID de transaction"/>
+<phrase key="totalWins" value="Gains totaux"/>
+<phrase key="totalWager" value="Mise totale"/>
+<phrase key="luckyNumbers" value="Numéros chanceux"/>
+<phrase key="outcomes" value="Résultats"/>
+<phrase key="instantWin" value="Gain instantané"/>
+<phrase key="instantDoubler" value="Doubleur instantané"/>
+<phrase key="instantMultiplier" value="Multiplicateur instantané"/>
+<phrase key="youMatched" value="Motif obtenu"/>
+<phrase key="boardNumbers" value="Numéros de la grille"/>
+<phrase key="boardValues" value="Valeurs de la grille"/>
+<phrase key="winningNumbers" value="Numéros gagnante"/>
+<phrase key="yourNumbers" value="Vos numéros"/>
+<phrase key="goldBar" value="Lingot d&#39;or"/>
+<phrase key="crown" value="Couronne"/>
+<phrase key="coin" value="Pièce"/>
+<phrase key="moneyBag" value="Sac d&#39;argent"/>
+</translation>

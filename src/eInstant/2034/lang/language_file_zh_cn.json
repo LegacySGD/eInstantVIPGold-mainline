@@ -1,0 +1,27 @@
+{
+	"default":{			
+			"demo": 								"试玩",
+            "button_play": 							"投注",
+			"button_buy": 							"购买",
+			"button_try": 							"试玩",
+			"button_continue":						"继续",
+            "button_move2moneyGame":				"用现金\n投注",
+            "wager":								"售价",
+            "balance":								"余额",
+			"wins":									"中奖",
+			"wins_demo":							"中奖演示",
+            "button_reveal":						"全部打开",       
+			"ui_yourNumbers":						"中奖号码",
+			"ui_winningNumbers":					"你的号码",
+			"ui_coin":								"发现硬币的象征赢得五\n次显示该符号的金额",
+			"ui_GoldBar":							"寻找金条的象征赢得自\n动显示的奖金",
+			"ui_crown":								"找到一个皇冠标志为双\n显示该符号奖",
+			"message_nonWin":						"祝下次好运",
+			"message_buyWin":						"恭喜\n你中奖了",
+			"message_tryWin":						"恭喜\n你本来可以中奖",		
+			"help_text":							"匹配任何你的号码给任何中奖号码，\n赢得显示该号码的奖金。",
+			"onScreenDesc_text_portrait":			"匹配任何你的号码给任何中奖号码，\n找一个金条，官方或硬币获胜。",
+			"onScreenDesc_text_landscape":			"匹配任何你的号码给任何中奖号码，\n找一个金条，官方或硬币获胜。",
+            "button_exit":							"离开"
+    }
+}

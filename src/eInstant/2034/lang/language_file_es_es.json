@@ -1,0 +1,27 @@
+{
+    "default":{			
+			"demo": 								"PROBAR",
+            "button_play": 							"JUGAR",
+			"button_buy": 							"COMPRAR",
+			"button_try": 							"PROBAR",
+			"button_continue":						"CONTINUE",
+            "button_move2moneyGame":				"JUEGA \nPOR DINERO",
+            "wager":								"PRECIO TICKET",
+            "balance":								"SALDO",
+			"wins":									"PREMIO",
+			"wins_demo":							"PREMIO DEMO",
+            "button_reveal":						"REVELAR TODO",      
+			"ui_yourNumbers":						"SUS NÚMEROS",
+			"ui_winningNumbers":					"GANAR NÚMEROS",
+			"ui_coin":								"Encuentra un símbolo COIN en ganar cinco veces la cantidad que aparece para ese símbolo",
+			"ui_GoldBar":							"Encuentra un símbolo LINGOTE por ganar el premio que se muestra de forma automática",
+			"ui_crown":								"Encuentra un símbolo CORONA duplicar el premio que aparece para ese símbolo",
+			"message_nonWin":						"MEJOR SUERTE\nLA PROXIMA VEZ",
+			"message_buyWin":						"FELICIDADES!\nHAS GANADO",
+			"message_tryWin":						"FELICIDADES!\nPODIDAS HABER GANADO",		
+			"help_text":							"Coincidir cualquiera de sus números a cualquier número que gana, gana el premio que aparece para ese número.",
+			"onScreenDesc_text_portrait":			"Coincide con ninguno de sus números para CUALQUIER NÚMERO DE GANAR, BUSCAR UN BAR DE ORO, LA CORONA O MONEDA PARA GANAR.",
+			"onScreenDesc_text_landscape":			"Coincide con ninguno de sus números para CUALQUIER NÚMERO DE GANAR, BUSCAR UN BAR DE ORO, LA CORONA O MONEDA PARA GANAR.",
+            "button_exit":							"SALIR"
+    }
+}
